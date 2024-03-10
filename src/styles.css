@@ -350,6 +350,7 @@ main {
     background-image: url(../img/cover.png);
     background-size: cover;
     background-repeat: no-repeat;
+    background-position: center;
 	color: white;
 	transition: transform 2s;
 }
@@ -425,6 +426,7 @@ h3 {
 }
 
 p {
+  /* padding: auto; */
 	padding: 0px 30px 10px 30px;
 	text-align: justify;
 	font-size: 14px;
