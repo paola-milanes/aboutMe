@@ -503,11 +503,15 @@ p {
   }
   .introduction{
     max-width: 90%;
-    max-height: 250px;
+    max-height: 230px;
 
   }
+  
+#intro{
+    font-size: 12px;
+  }
   #name{
-    font-size: 30px;
+    font-size: 20px;
   }
     
   #contactme-button{
