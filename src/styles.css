@@ -570,4 +570,7 @@ p {
   margin-bottom: 1rem;
   margin-top: 1rem !important;
 }
+.book-content{
+  font-size: small;
+}
 }
